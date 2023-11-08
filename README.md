@@ -1,2 +1,2 @@
-# Портфельная теория Марковица
-Реализация анализа активов МосБиржки по методике Марковица с использованием предсказания ожидаемой доходности активов, реализованной в https://github.com/SamoilovSD/ETF
+# Stocks analysis using Markowitz theory
+Analysis of Moscow Exchange stocks using the Markowitz methodology using the prediction of expected return on stocks realized in https://github.com/SamoilovSD/ETF.
